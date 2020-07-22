@@ -1,0 +1,114 @@
+.navbar-brand{
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+	font-family: 'Sacramento', cursive;
+} 
+
+.background{
+	width: 100%;
+}
+.web-developer{
+	text-decoration: underline;
+}
+
+.web{
+	color: #3ca59d;
+}
+/* Middile Section */
+
+.about-profile-photo{
+	opacity: 0;
+}
+
+.about-profile-photo.animate__animated{
+	opacity: 1;
+}
+
+.about-profile{
+	opacity: 0;
+}
+
+.about-profile.animate__animated{
+	opacity: 1;
+}
+
+.h2-profile{
+	color: #3ca59d;
+}
+
+.intro{
+	width: 30%;
+	margin: auto;
+	line-height: 2;
+	
+} 
+
+/* Skills */
+.skills{
+	opacity: 0;
+}
+
+.skills.animate__animated{
+	opacity: 1;
+}
+
+.skill-row{
+	width: 50%;
+	margin: 100px auto;
+	
+/* Qualification */
+}
+
+#Education{
+	opacity: 0;
+}
+
+#Education.animate__animated{
+	opacity: 1;
+}
+
+
+.par{
+	line-height: 2;
+}
+
+.about-degree{
+	line-height: 2;
+}
+
+/* contact me */
+.contact-me{
+	opacity: 0;
+}
+
+.contact-me.animate__animated{
+	opacity: 1;
+}
+.btn:hover {
+  background: #30E3CB;
+  background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+  text-decoration: none;
+}
+
+.contact-me{
+	text-align: center;
+}
+a{
+	color: #11999e;
+	text-decoration: none;
+	margin: 10px 20px;
+}
+
+a:hover {
+	color: #eaf6f6;
+}
+
+.copyright{
+	color: #eaf6f6;
+}
